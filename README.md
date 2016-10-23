@@ -15,13 +15,10 @@ to be copied and pasted right into Slack.
 
 # Installing
 
-* Checkout the code somewhere
-* Fire up Chrome
-* Click *The Hamburger* (the 3 lines stacked on top of each other to the right of the url bar) -> *Settings*
-* Click *Extensions*
-* Click *Developer Mode* checkbox
-* Click *Load unpacked extension...*
-* Locate the code you just checked out
+* Download `slack-pr-generator.crx` to your Desktop.
+* Fire up Chrome and go to: chrome://extensions/
+* Drag `slack-pr-generator.crx` to the Chrome window.
+* Install the extension.
 * Do your job and write some code.
 * Create a pull request.
 * Get it approved.
