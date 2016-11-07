@@ -3,9 +3,6 @@
 	"version": "0.1",
 	"manifest_version": 2,
 	"description": "",
-	"background": {
-		"scripts": ["background.js"]
-	},
 	"permissions": [
 		"activeTab",
 		"http://*/*",
@@ -20,6 +17,7 @@
 		"default_icon": {
 			"48": "images/icon-48.png"
 		},
-		"default_title": "Slackify Github Pull Requests"
+		"default_title": "Slackify Github Pull Requests",
+		"default_popup": "popup.html"
 	}
 }
