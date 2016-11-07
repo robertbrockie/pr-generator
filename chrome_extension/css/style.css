@@ -1,0 +1,10 @@
+img {
+    display: block;
+    margin: auto;
+    height: 200px;
+    width: 200px;
+}
+
+#success, #error { display: none; }
+
+#message { text-align: center; }
