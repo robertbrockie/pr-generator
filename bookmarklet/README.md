@@ -1,6 +1,6 @@
 # Slackyify Github Pull Requests
 
-A Bookmarklet to aid in notifying you team that new Github pull requests that are about to be 
+A Bookmarklet to aid in notifying your team that new Github pull requests that are about to be 
 deployed via Slack.
 
 So, you have a PR that you want to get into production. After a long arduous code review your code is
