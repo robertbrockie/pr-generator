@@ -1,3 +1,4 @@
+body { padding-top: 10px; }
 img {
     display: block;
     margin: auto;
@@ -6,5 +7,4 @@ img {
 }
 
 #success, #error { display: none; }
-
 #message { text-align: center; }

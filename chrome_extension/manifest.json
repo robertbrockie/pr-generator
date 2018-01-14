@@ -3,6 +3,7 @@
 	"version": "0.1",
 	"manifest_version": 2,
 	"description": "",
+	"update_url": "http://0.0.0.0",
 	"permissions": [
 		"activeTab",
 		"http://*/*",
